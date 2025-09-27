@@ -14,7 +14,7 @@
   </a>
 </p>
 
-I build scalable, interactive, and modern web applications with a focus on creating exceptional user experiences through clean code and innovative solutions.
+I'm a passionate Full-Stack Developer specializing in the MERN stack. I love turning complex problems into simple, beautiful, and intuitive web applications. Eager to leverage my skills to build innovative solutions in a collaborative team environment.
 
 ---
 
@@ -90,19 +90,15 @@ I build scalable, interactive, and modern web applications with a focus on creat
 
 ### 🚀 My Projects
 
-#### TripHaven - Airbnb Clone
-> A comprehensive vacation rental platform with property listings, booking system, and user management.
-- **Features:** Property listing & booking, interactive maps, image uploads, and user authentication.
-- **Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `EJS`, `Cloudinary`, `Mapbox`
-<br>
-<a href="https://triphaven-ts8p.onrender.com" target="_blank"><img src="https://img.shields.io/badge/View_Live_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site"/></a>
-<a href="https://github.com/VinayakLambade22/TripHaven" target="_blank"><img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-<hr>
-
 #### JobNexus - LinkedIn Clone
 > Professional networking platform with job postings, connections, and resume generation capabilities.
 - **Features:** Professional networking, job postings, PDF resume generation, and real-time notifications.
-- **Tech Stack:** `Next.js`, `Express.js`, `Redux Toolkit`, `Cloudinary`, `PDF Generator`
+- **Tech Stack:**
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 <br>
 <a href="https://job-nexus-nine.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View_Live_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site"/></a>
 <a href="https://github.com/VinayakLambade22/JobNexus" target="_blank"><img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
@@ -111,7 +107,12 @@ I build scalable, interactive, and modern web applications with a focus on creat
 #### LuminaAI - ChatGPT Clone
 > AI-powered conversational interface with multiple AI models and advanced chat features.
 - **Features:** Multiple AI model integration, advanced authentication, real-time chat, and conversation history.
-- **Tech Stack:** `React`, `Node.js`, `OpenAI API`, `Google Generative AI`, `Clerk Auth`
+- **Tech Stack:**
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth"/>
 <br>
 <a href="https://luminaai-1-1nrb.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/View_Live_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site"/></a>
 <a href="https://github.com/VinayakLambade22/LuminaAI" target="_blank"><img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
@@ -120,43 +121,26 @@ I build scalable, interactive, and modern web applications with a focus on creat
 #### VideoMeet - Video Conferencing App
 > Real-time video conferencing platform with screen sharing and interactive features.
 - **Features:** Real-time video/audio, screen sharing, interactive chat, and meeting room management.
-- **Tech Stack:** `React`, `Socket.IO`, `Express.js`, `WebRTC`
+- **Tech Stack:**
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
 <br>
 <a href="https://videomeetfrontend-p6hl.onrender.com" target="_blank"><img src="https://img.shields.io/badge/View_Live_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site"/></a>
 <a href="https://github.com/VinayakLambade22/VideoMeet" target="_blank"><img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-<hr>
-
-#### TradeTrack - Trading Platform Clone
-> Comprehensive trading platform with real-time charts, portfolio management, and market analysis.
-- **Features:** Real-time market data, portfolio tracking, secure JWT authentication, and trading simulation.
-- **Tech Stack:** `React`, `Node.js`, `Chart.js`, `JWT Auth`, `Financial APIs`
-<br>
-<a href="https://tradetrack-eo53.onrender.com" target="_blank"><img src="https://img.shields.io/badge/View_Live_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site"/></a>
-<a href="https://github.com/VinayakLambade22/TradeTrack" target="_blank"><img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-<hr>
-
-#### Spotify Clone - Music Streaming App
-> Full-featured music streaming application with playlists, real-time chat, and audio processing.
-- **Features:** Music streaming, playlist management, real-time chat, and audio file processing.
-- **Tech Stack:** `React`, `TypeScript`, `Express.js`, `MongoDB`, `Cloudinary`, `Socket.IO`
-<br>
-<a href="https://spotify-poak.onrender.com" target="_blank"><img src="https://img.shields.io/badge/View_Live_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site"/></a>
-<a href="https://github.com/VinayakLambade22/Spotify" target="_blank"><img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
-<hr>
-
-#### GitHub Clone - Code Collaboration Platform
-> A feature-rich clone of GitHub, designed for version control and collaborative software development.
-- **Features:** User profiles, repository management, commit history, and code viewing.
-- **Tech Stack:** `React`, `Node.js`, `MongoDB`, `GraphQL`, `JWT Auth`
-<br>
-<a href="https://github-1-z68x.onrender.com" target="_blank"><img src="https://img.shields.io/badge/View_Live_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site"/></a>
-<a href="https://github.com/VinayakLambade22/GitHub-Clone" target="_blank"><img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/></a>
 <hr>
 
 ---
 
 ### 📈 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VinayakLambade22&theme=dracula&column=7&margin-w=15&margin-h=15"/>
+  </a>
+</p>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VinayakLambade22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakLambade22&layout=compact&langs_count=8&theme=dracula"/>
