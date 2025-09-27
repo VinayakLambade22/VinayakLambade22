@@ -20,7 +20,7 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack and explori
 
 ### ✨ About Me
 
-> As a final-year BCA student from Tilak Maharashtra University (2025), I am passionate about building modern, scalable web applications. My expertise spans the entire MERN stack, and I am committed to continuous learning to create efficient and impactful solutions.
+> As a BCA Graduate (2025) from Tilak Maharashtra University, I am passionate about building modern, scalable web applications. My expertise spans the entire MERN stack, and I am committed to continuous learning to create efficient and impactful solutions.
 
 - 🎓 **Education:** Bachelor of Computer Applications (BCA) - Tilak Maharashtra University, 2025 (GPA: 8.05/10)
 - 🌱 **Currently Learning:**
