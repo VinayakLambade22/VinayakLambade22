@@ -202,43 +202,26 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack and explori
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VinayakLambade22&theme=dracula&column=6&margin-w=10&margin-h=10" 
+    <img src="https://github-profile-trophy.vercel.app/?username=VinayakLambade22&theme=tokyonight&column=6&margin-w=10&margin-h=10" 
          alt="trophies"
          style="border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
   </a>
 </p>
 
-<!-- Row 1 -->
-<p align="center" style="margin-bottom: 35px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayakLambade22&show_icons=true&theme=dracula&hide_border=false" 
-       height="180em"
-       style="margin-right: 40px; border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakLambade22&theme=dracula&hide_border=false" 
-       height="180em"
-       style="margin-left: 40px; border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayakLambade22&show_icons=true&theme=tokyonight" height="180em" style="margin-right:20px; border-radius:12px; padding:6px; box-shadow:0 0 15px #8b5cf6;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakLambade22&layout=compact&theme=tokyonight" height="180em" style="margin-left:20px; border-radius:12px; padding:6px; box-shadow:0 0 15px #8b5cf6;" />
 </p>
 
-<!-- Row 2 -->
-<p align="center" style="margin: 35px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakLambade22&layout=compact&theme=dracula&hide_border=false" 
-       height="180em"
-       style="margin-right: 40px; border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinayakLambade22&theme=dracula&hide_border=false" 
-       height="180em"
-       style="margin-left: 40px; border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayakLambade22&theme=react-dark" />
 </p>
 
-<!-- Row 3 -->
-<p align="center" style="margin-top: 35px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinayakLambade22&theme=dracula&hide_border=false" 
-       height="180em"
-       style="margin-right: 40px; border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayakLambade22&theme=dracula&hide_border=false" 
-       height="180em"
-       style="margin-left: 40px; border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayakLambade22&theme=tokyonight" style="margin-right:20px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinayakLambade22&theme=tokyonight" style="margin:0 20px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinayakLambade22&theme=tokyonight" style="margin-left:20px;" />
 </p>
-
-
 
 ---
 
