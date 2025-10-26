@@ -201,11 +201,7 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack and explori
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VinayakLambade22&theme=tokyonight&column=6&margin-w=10&margin-h=10" 
-         alt="trophies"
-         style="border: 2px solid #a78bfa; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #8b5cf6;" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=VinayakLambade22&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
