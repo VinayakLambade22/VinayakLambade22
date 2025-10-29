@@ -201,8 +201,12 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack and explori
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VinayakLambade22&theme=tokyonight" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=VinayakLambade22&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub Streak" 
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VinayakLambade22&show_icons=true&theme=tokyonight" height="180em" style="margin-right:20px; border-radius:12px; padding:6px; box-shadow:0 0 15px #8b5cf6;" />
